@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "tslib": "^2.6.3",
+    "unbuild": "^2.0.0"
+  }
+}
